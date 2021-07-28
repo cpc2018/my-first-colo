@@ -26,6 +26,18 @@ sample-rack-layout.xlsx - starter sheet for rack layouts
 
 sample-MW-layouts-2021-04-29 - Example layouts of 1Mw and 2Mw, and room for tools
 
+Project plans - there are 4 types and 4 files 
+  types:
+   - Retail build - 1-25 racks, on a standard cadence
+   - Retail-build-fast - 1-25 racks, on an aggressive cadence
+   - Wholesale-build -25-200 racks, on a standard cadence
+   - Wholesale-build-fast -25-200 racks on an aggressive cadence
+
+  File types:
+   - oplx - omniplan file format
+   - csv - CSV layout (for easy importing to something) (eg: ms project)
+   - pdf - a pdf of the tasks and days needed
+   - gantt.pdf - a pdf of the tasks and gantt chart
 --C
 
 colin+dc@corbe.tt
