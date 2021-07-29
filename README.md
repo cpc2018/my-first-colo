@@ -8,7 +8,7 @@ I've tweaked it over time, expanded sections, added the odd drawing, a few pictu
 
 Feel free to message with suggestions, questions etc.  
 
-The main file is the "My first Colo" (either in PDF or DOC)
+**The main file is the "My first Colo" (either in PDF or DOC)** 
 
 colo-visit-checklist.xlsx - a set of things to check off, as you walk through a datacenter, to make sure you saw everything.
 
