@@ -26,6 +26,8 @@ Feel free to message with suggestions, questions etc.
 
 **sample-MW-layouts-2021-04-29** - Example layouts of 1Mw and 2Mw, and room for tools
 
+**My-first-Colo-Preso-v1.01** - various slides I've used for presenting about datacenters.
+
 **Project plans** - Various Project Plans. - there are 4 types and 4 files 
   types:
    - Retail build - 1-25 racks, on a standard cadence
